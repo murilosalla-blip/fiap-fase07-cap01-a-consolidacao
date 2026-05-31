@@ -185,7 +185,7 @@ grupoaura-fase7-cap1/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/murilosalla-blip/grupoaura-fase7-cap1.git
+git clone https://github.com/murilosalla-blip/fiap-fase07-cap01-a-consolidacao.git
 cd grupoaura-fase7-cap1
 ```
 
