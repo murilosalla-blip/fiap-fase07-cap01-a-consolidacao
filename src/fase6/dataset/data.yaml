@@ -1,0 +1,7 @@
+names:
+- Garrafa
+- Celular
+nc: 2
+test: /content/drive/MyDrive/dataset/test/images
+train: /content/drive/MyDrive/dataset/train/images
+val: /content/drive/MyDrive/dataset/valid/images

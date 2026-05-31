@@ -1,0 +1,7 @@
+names:
+- Garrafa
+- Celular
+nc: 2
+test: C:\Users\muril\OneDrive\Desktop\Fase 7 - Cap 1\src\fase6\dataset\test\images
+train: C:\Users\muril\OneDrive\Desktop\Fase 7 - Cap 1\src\fase6\dataset\train\images
+val: C:\Users\muril\OneDrive\Desktop\Fase 7 - Cap 1\src\fase6\dataset\valid\images

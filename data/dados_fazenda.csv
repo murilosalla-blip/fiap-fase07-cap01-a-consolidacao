@@ -1,0 +1,12 @@
+cultura,comprimento,largura,area_m2,tipo_insumo,qtde_insumo,unidade_insumo,info_extra
+cana de acucar,300.0,200.0,60000.0,Fertilizante NPK,19950.0,kg,{'num_ruas': 133}
+milho,100.0,50.0,5000.0,Herbicida,2.5,Litros,{'dose_por_ha': 5.0}
+milho,200.0,100.0,20000.0,Herbicida,10.0,Litros,{'dose_por_ha': 5.0}
+milho,300.0,200.0,60000.0,Herbicida,30.0,Litros,{'dose_por_ha': 5.0}
+Milho,150.0,100.0,15000.0,Herbicida,7.5,Litros,
+Milho,100.0,50.0,5000.0,Herbicida,2.5,Litros,
+Cana de Açúcar,100.0,50.0,5000.0,Fertilizante NPK,1650.0,kg,
+Cana de Açúcar,100.0,50.0,5000.0,Fertilizante NPK,1650.0,kg,
+Cana de Açúcar,1000.0,50.0,50000.0,Fertilizante NPK,16500.0,kg,
+Cana de Açúcar,10000.0,50.0,500000.0,Fertilizante NPK,165000.0,kg,
+Milho,10000.0,50.0,500000.0,Herbicida,250.0,Litros,
