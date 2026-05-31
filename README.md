@@ -39,8 +39,8 @@ O projeto une:
 - **IoT com ESP32 e classificação de irrigação com ML** (Fase 3)
 - **Dashboard analítico com regressão preditiva de umidade** (Fase 4)
 - **Infraestrutura AWS e estimativa de custos em nuvem** (Fase 5)
-- **Serviço de alertas via AWS SNS** (Fase 7)
 - **Visão computacional com YOLOv5 customizado** (Fase 6)
+- **Serviço de alertas via AWS SNS** (Fase 7)
 
 Tudo orquestrado por um único **dashboard Streamlit** que permite ao gestor agrícola acessar cada módulo por meio de abas interativas, com botões de disparo para cada serviço.
 
