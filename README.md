@@ -323,15 +323,6 @@ O serviço de alertas utiliza o **Amazon Simple Notification Service (SNS)** da 
 
 ---
 
-### O que dispara um alerta:
-
-| Sensor | Limiar mínimo | Limiar máximo | Ação sugerida |
-|--------|--------------|--------------|---------------|
-| Umidade do solo | 30% | 80% | Irrigar / Reduzir irrigação |
-| Temperatura | 10°C | 40°C | Ajustar manejo |
-| pH do solo | 5.5 | 7.5 | Aplicar calcário / enxofre |
-| Nutrientes NPK | — | — | Adubação dirigida |
-
 ### Como configurar:
 
 1. Acesse [AWS Console](https://console.aws.amazon.com) e crie uma conta (Free Tier)
