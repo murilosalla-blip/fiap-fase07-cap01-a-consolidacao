@@ -186,13 +186,17 @@ grupoaura-fase7-cap1/
 
 ```bash
 git clone https://github.com/murilosalla-blip/fiap-fase07-cap01-a-consolidacao.git
-cd grupoaura-fase7-cap1
+cd fiap-fase07-cap01-a-consolidacao
 ```
 
 ### 2. Configurar ambiente virtual
 
 **Windows (PowerShell):**
 ```powershell
+# Se necessário, libere a execução de scripts (apenas uma vez)
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+
+# Cria o ambiente virtual e instala as dependências
 .\scripts\setup_venv.ps1
 ```
 
@@ -238,11 +242,21 @@ O script clona o YOLOv5, prepara o dataset (80 imagens) e gera o `best.pt` autom
 
 **Windows (PowerShell):**
 ```powershell
-.\scripts\run_dashboard.ps1
+# Ative o ambiente virtual (caso não esteja ativo)
+.venv\Scripts\Activate.ps1
+
+# Inicie o dashboard
+streamlit run src/dashboard.py
 ```
 
 **Manual:**
 ```bash
+# Ative o ambiente virtual (caso não esteja ativo)
+source .venv/bin/activate     # Linux/Mac
+# ou
+.venv\Scripts\activate      # Windows
+
+# Inicie o dashboard
 streamlit run src/dashboard.py
 ```
 
