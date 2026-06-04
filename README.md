@@ -25,7 +25,7 @@
 
 ## 🎬 Vídeo Demonstrativo
 
-> ▶️ **[Assista no YouTube — LINK A SER INSERIDO APÓS GRAVAÇÃO]()** *(não listado)*
+> ▶️ **[Assista no YouTube](https://www.youtube.com/watch?v=XxiWZHSey7Y)** *(não listado)*
 
 ---
 
